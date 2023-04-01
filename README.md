@@ -7,6 +7,12 @@ This beautiful theme from the [Matter Design Team](https://matterdesign.com.au/)
 - [Prettier](https://prettier.io/)
 - [React Helmet](https://github.com/nfl/react-helmet)
 
+You can also have  look my other projects
+
+https://weeksfromtoday.com
+
+https://calculador.io
+
 Take a look at the screenshot below or preview the live site here: https://gatsby-ecommerce-theme.netlify.app/!
 ![full page screenshot](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1653371030/CleanShot_2022-05-24_at_01.11.52_2x_bspa8c.jpg)
 
